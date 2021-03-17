@@ -1,7 +1,6 @@
-#+TITLE: git_open
-
 * Requirements
-[[https://git-scm.com][Git]]
+[[https://git-scm.com][Git
+]]
 [[https://github.com/freedesktop/xdg-utils][xdg-utils]]
 
 * Description
