@@ -1,6 +1,12 @@
 * Requirements
 [[https://git-scm.com][Git]]\\
-[[https://github.com/freedesktop/xdg-utils][xdg-utils]]
+[[https://github.com/freedesktop/xdg-utils][xdg-utils
+]]
+* Supported Hosts
+[[github.com][github]]\\
+[[gitlab.com][gitlab]]\\
+[[bitbucket.org][bitbucket]]\\
+[[gitea.com][gitea]]
 
 * Description
 A Fish script containing the git_open function. This function checks if you're in a git repository, and, if you are, opens that repository's page in your web browser. If desired, this script can also be changed in order to add it to the user's fish configuration, usually located at ~/home/[USER]/.config/fish/functions~.
