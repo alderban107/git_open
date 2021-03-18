@@ -1,11 +1,15 @@
 * Requirements
-[[https://git-scm.com][Git]]\\
+[[https://git-scm.com][Git
+]]
 [[https://github.com/freedesktop/xdg-utils][xdg-utils
 ]]
 * Supported Hosts
-[[github.com][github]]\\
-[[gitlab.com][gitlab]]\\
-[[bitbucket.org][bitbucket]]\\
+[[github.com][github
+]]
+[[gitlab.com][gitlab
+]]
+[[bitbucket.org][bitbucket
+]]
 [[gitea.com][gitea]]
 
 * Description
